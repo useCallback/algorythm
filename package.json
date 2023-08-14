@@ -1,0 +1,19 @@
+{
+  "name": "algorythm",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/useCallback/algorythm.git"
+  },
+  "author": {
+    "name": "Khalfoun Mohamed El Mehdi",
+    "url": "https://github.com/useCallback",
+    "email": "contact.khalfoun@gmail.com"
+  },
+  "license": "MIT"
+}
